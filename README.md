@@ -11,8 +11,8 @@ In simple terms, it does this:
 - Gives you a public proof you can save or share
 
 ## My Proof:
-- DID: did:key:z6Mkt9W7ZFhqDUgVYA6hx6sCfAacc3x1sQhVnioh8KET2rAu
-- Contribution: https://technocore.chat/kv/contrib/65bf859626f3d8ea
+- DID: did:key:z6Mkny3D6LVpCJkUSyRaqvmatdEWH52SpeijNSBxV2i9LwDg
+- Contribution: https://technocore.chat/kv/contrib/ccdcd0a0e278765c
 
 ## Start
 
